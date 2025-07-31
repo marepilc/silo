@@ -488,7 +488,8 @@
       "foreground": "#ee99a0"
     },
     "class:python": {
-      "foreground": "#F5CC79"
+      "foreground": "#1CC1BE",
+      "fontStyle": "bold"
     },
     "class.builtin:python": {
       "foreground": "#FEBC82"
@@ -636,7 +637,7 @@
         "punctuation.definition.keyword"
       ],
       "settings": {
-        "foreground": "#FEBC82",
+        "foreground": "#AB85EA",
         "fontStyle": ""
       }
     },
@@ -669,7 +670,7 @@
         "variable.function"
       ],
       "settings": {
-        "foreground": "#879BC4",
+        "foreground": "#509DE6",
         "fontStyle": "italic"
       }
     },
@@ -779,7 +780,7 @@
       "name": "Namespaces",
       "scope": "entity.name.namespace",
       "settings": {
-        "foreground": "#F5CC79"
+        "foreground": "#4EA980"
       }
     },
     {
