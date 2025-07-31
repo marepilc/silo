@@ -1,0 +1,21 @@
+{
+  "name": "silo",
+  "displayName": "SILO",
+  "description": "SILO is a soft, eye-friendly color theme designed for developers who spend long hours coding. Its balanced and muted color palette promotes focus and reduces visual fatigue, making it ideal for both daytime and nighttime work. With clean contrasts and thoughtful syntax highlighting, SILO ensures your code stays readable without being overwhelming.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "SILO",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SILO-color-theme.json"
+      }
+    ]
+  }
+}
