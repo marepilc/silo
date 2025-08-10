@@ -261,7 +261,14 @@
     "breadcrumb.activeSelectionForeground": "#febc82",
     "editorGutter.commentRangeForeground": "#bca18e",
     "debugExceptionWidget.background": "#282625",
-    "debugExceptionWidget.border": "#675b53"
+    "debugExceptionWidget.border": "#675b53",
+    "editorBracketHighlight.foreground1": "#eed49f",
+    "editorBracketHighlight.foreground2": "#c6a0f6",
+    "editorBracketHighlight.foreground3": "#ed8796",
+    "editorBracketHighlight.foreground4": "#7dc4e4",
+    "editorBracketHighlight.foreground5": "#f5a97f",
+    "editorBracketHighlight.foreground6": "#a6da95",
+    "editorBracketHighlight.unexpectedBracket.foreground": "#ee99a0"
   },
   "tokenColors": [
     {
@@ -667,6 +674,13 @@
       "scope": ["keyword.control.at-rule.css"],
       "settings": {
         "foreground": "#4a87b9"
+      }
+    },
+    {
+      "name": "keyword code tag",
+      "scope": ["keyword.codetag.notation"],
+      "settings": {
+        "foreground": "#ffc507"
       }
     }
   ]
