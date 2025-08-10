@@ -1,16 +1,32 @@
-# silo README
+# SILO Theme
 
-## Working with Markdown
+SILO is a soft, eye-friendly color theme designed for developers who spend long hours coding. Its balanced and muted color palette promotes focus and reduces visual fatigue, making it ideal for both daytime and nighttime work. With clean contrasts and thoughtful syntax highlighting, SILO ensures your code stays readable without being overwhelming.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Installation
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+1. Open Visual Studio Code
+2. Go to Extensions (Ctrl+Shift+X)
+3. Search for "SILO theme"
+4. Click Install
 
-## For more information
+## Usage
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+1. Open Command Palette (Ctrl+Shift+P)
+2. Type "Preferences: Color Theme"
+3. Select "SILO" from the list
 
-**Enjoy!**
+## Features
+
+- Soft, muted color palette that reduces eye strain
+- Optimized for long coding sessions
+- Clean contrasts for better readability
+- Thoughtful syntax highlighting
+- Suitable for both day and night work
+
+## License
+
+MIT
+
+## Repository
+
+[GitHub](https://github.com/marepilc/silo)
