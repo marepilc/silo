@@ -309,7 +309,7 @@
     {
       "scope": ["string", "punctuation.definition.string"],
       "settings": {
-        "foreground": "#7EC069"
+        "foreground": "#7ab991"
       }
     },
     {
@@ -438,7 +438,7 @@
     {
       "scope": "meta.tag string",
       "settings": {
-        "foreground": "#7EC069"
+        "foreground": "#7ab991"
       }
     },
     {
