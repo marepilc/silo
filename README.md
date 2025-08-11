@@ -2,6 +2,8 @@
 
 SILO is a soft, eye-friendly color theme designed for developers who spend long hours coding. Its balanced and muted color palette promotes focus and reduces visual fatigue, making it ideal for both daytime and nighttime work. With clean contrasts and thoughtful syntax highlighting, SILO ensures your code stays readable without being overwhelming.
 
+![SILO Theme Screenshot](images/screenshot.png)
+
 ## Installation
 
 1. Open Visual Studio Code
