@@ -3,7 +3,7 @@
   "displayName": "SILO theme",
   "description": "SILO is a soft, eye-friendly color theme designed for developers who spend long hours coding. Its balanced and muted color palette promotes focus and reduces visual fatigue, making it ideal for both daytime and nighttime work. With clean contrasts and thoughtful syntax highlighting, SILO ensures your code stays readable without being overwhelming.",
   "icon": "images/silo.png",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "publisher": "mp76",
   "repository": {
     "type": "git",
