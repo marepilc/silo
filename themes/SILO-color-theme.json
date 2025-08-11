@@ -303,7 +303,8 @@
     {
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
-        "foreground": "#887c6d"
+        "foreground": "#79726a",
+        "fontStyle": "italic"
       }
     },
     {
